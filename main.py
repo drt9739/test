@@ -8,3 +8,6 @@ if __name__ == '__main__':
 print('123')
 print(123)
 print(5 * 2 / 6 - 6)
+print(1412)
+s = 123
+print(s)
